@@ -1,0 +1,15 @@
+.location 
+{
+    display: flex;
+    justify-content: start;
+}
+.pages
+{
+    display: flex;
+    justify-content: center;
+}
+.searchandcart
+{
+    display: flex;
+    justify-content:end;
+}
