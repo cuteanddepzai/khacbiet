@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/khacbiet/static/css/main.13df8acc.css",
+    "main.js": "/khacbiet/static/js/main.abfef47e.js",
+    "static/js/787.e26d4699.chunk.js": "/khacbiet/static/js/787.e26d4699.chunk.js",
+    "static/media/logo.svg": "/khacbiet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/khacbiet/index.html",
+    "main.13df8acc.css.map": "/khacbiet/static/css/main.13df8acc.css.map",
+    "main.abfef47e.js.map": "/khacbiet/static/js/main.abfef47e.js.map",
+    "787.e26d4699.chunk.js.map": "/khacbiet/static/js/787.e26d4699.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13df8acc.css",
+    "static/js/main.abfef47e.js"
+  ]
+}
